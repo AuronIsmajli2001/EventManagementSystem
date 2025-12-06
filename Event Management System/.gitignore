@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AuthSolution/.vs
+/UserSolution/.vs/UserSolution
+/AuthSolution/Domain/obj
+/AuthSolution/Infrastructure/obj
+/AuthSolution/Persistence/obj
+/UserSolution/Domain/obj/Debug/net8.0
+/AuthSolution/Application/obj
+/AuthSolution/AuthApi/obj
+/UserSolution/.vs/ProjectEvaluation
