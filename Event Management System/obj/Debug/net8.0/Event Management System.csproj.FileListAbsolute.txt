@@ -1,0 +1,42 @@
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\appsettings.json
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Event Management System.staticwebassets.runtime.json
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Event Management System.exe
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Event Management System.deps.json
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Event Management System.runtimeconfig.json
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Event Management System.dll
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Event Management System.pdb
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Management System.csproj.AssemblyReference.cache
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Management System.AssemblyInfoInputs.cache
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Management System.AssemblyInfo.cs
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Management System.csproj.CoreCompileInputs.cache
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Management System.RazorAssemblyInfo.cache
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Management System.RazorAssemblyInfo.cs
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Management System.sourcelink.json
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\staticwebassets\msbuild.Event Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Event Management System.props
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Event Management System.props
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Event Management System.props
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\scopedcss\bundle\Event Management System.styles.css
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\scopedcss\projectbundle\Event Management System.bundle.scp.css
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Ma.263606CC.Up2Date
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Management System.dll
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\refint\Event Management System.dll
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Management System.pdb
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\Event Management System.genruntimeconfig.cache
+C:\Users\AURON\Desktop\EventManagementSystem\EventManagementSystem\Event Management System\obj\Debug\net8.0\ref\Event Management System.dll
