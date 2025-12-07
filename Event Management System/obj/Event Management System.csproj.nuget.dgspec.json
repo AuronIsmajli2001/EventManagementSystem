@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edin\\Desktop\\EventManagmentSystem\\EventManagementSystem\\Event Management System\\Event Management System.csproj": {}
+    "C:\\Users\\Admin\\Source\\Repos\\WP25G07\\Event Management System\\Event Management System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edin\\Desktop\\EventManagmentSystem\\EventManagementSystem\\Event Management System\\Event Management System.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\WP25G07\\Event Management System\\Event Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edin\\Desktop\\EventManagmentSystem\\EventManagementSystem\\Event Management System\\Event Management System.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\WP25G07\\Event Management System\\Event Management System.csproj",
         "projectName": "Event Management System",
-        "projectPath": "C:\\Users\\Edin\\Desktop\\EventManagmentSystem\\EventManagementSystem\\Event Management System\\Event Management System.csproj",
-        "packagesPath": "C:\\Users\\Edin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edin\\Desktop\\EventManagmentSystem\\EventManagementSystem\\Event Management System\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\WP25G07\\Event Management System\\Event Management System.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\WP25G07\\Event Management System\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Edin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
