@@ -1,15 +1,69 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-/AuthSolution/.vs
-/UserSolution/.vs/UserSolution
-/AuthSolution/Domain/obj
-/AuthSolution/Infrastructure/obj
-/AuthSolution/Persistence/obj
-/UserSolution/Domain/obj/Debug/net8.0
-/AuthSolution/Application/obj
-/AuthSolution/AuthApi/obj
-/UserSolution/.vs/ProjectEvaluation
-/.vs/Event Management System/FileContentIndex
-/Event Management System/bin/Debug/net8.0
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww]in32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.*.json
+Properties/launchSettings.json
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Publish
+publish/
+*.pubxml
+*.azurePubxml
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# IIS Express
+iisexpress/
+*.vspscc
+
+# Node / Frontend (in case you use it)
+node_modules/
+dist/
+wwwroot/lib/
+
+# Generated files
+Generated/
+Generated*/**
+
+# Others
+*.dbmdl
+*.jfm
+*.pfx
+*.p12
+*.DS_Store
+Thumbs.db
