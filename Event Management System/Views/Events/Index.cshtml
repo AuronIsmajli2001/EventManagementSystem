@@ -1,0 +1,29 @@
+@model IEnumerable<Event>
+@{
+    ViewData["Title"] = "Events";
+}
+
+<h2>Events</h2>
+
+<form method="get">
+    <input name="search" placeholder="Search title" />
+    <button class="btn btn-primary">Search</button>
+</form>
+
+<table class="table table-striped">
+    <tr>
+        <th>Title</th>
+        <th>Date</th>
+        <th></th>
+    </tr>
+@foreach (var e in Model)
+{
+    <tr>
+        <td>@e.Title</td>
+        <td>@e.EventDate.ToShortDateString()</td>
+        <td>
+            <a asp-action="Details" asp-route-id="@e.Id">Details</a>
+        </td>
+    </tr>
+}
+</table>
